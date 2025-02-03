@@ -1,19 +1,14 @@
 // Setting up the the race 🏎 🏎 🏎
 
-console.log(5)
-console.log(4)
-console.log(3)
-console.log(2)
-console.log(1)
+function race() {
+	for (count = 5; count != 0; --count)
+		console.log(count)
+}
 
+race()
 // GO! 🏁
 // Players are running the race 🏎 💨
 // Race is finished! 🍾
-
+race()
 // Get ready for a new race 🏎 🏎 🏎
 
-console.log(5)
-console.log(4)
-console.log(3)
-console.log(2)
-console.log(1)
